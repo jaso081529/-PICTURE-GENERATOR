@@ -1,0 +1,7 @@
+{
+  "name": "Social Media Bild Generator",
+  "description": "Premium AI Bild Generator spezialisiert für Red Devils Division, Hoodplaka67, JJ674 und PalzFlow. Generiert hochwertige Designs für Social Media.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
